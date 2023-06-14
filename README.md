@@ -16,9 +16,6 @@ Le projet se compose de deux fichiers JavaScript principaux :
 ## Comment jouer
 Il suffit d'ouvrir le fichier `index.html` dans votre navigateur web et de suivre les instructions à l'écran pour jouer.
 
-## Aperçu du jeu
-Vous pouvez voir un aperçu du jeu terminé en visitant [lien vers une démo en direct, si disponible].
-
 ## Technologies utilisées
 - JavaScript pour le côté fonctionnel du jeu
 - HTML/CSS pour l'aspect visuel du site web
